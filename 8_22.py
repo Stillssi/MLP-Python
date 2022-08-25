@@ -108,6 +108,7 @@ while True:
 user_input = int(input('숫자를 입력하시오: '))
 sum_value = 0
 
+
 while user_input>0:
     sum_value += user_input
     user_input-=1
